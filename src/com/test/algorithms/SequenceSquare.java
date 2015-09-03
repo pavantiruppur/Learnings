@@ -85,6 +85,7 @@ public class SequenceSquare {
 	 *  
 	 *  So the time complexity of the below method is O(n log n)
 	 *  Even this is also O(n log n) it has modulus % operation it is more costly than 2 iteration approach.
+	 *  
 	 * @param doors
 	 * @return
 	 */
